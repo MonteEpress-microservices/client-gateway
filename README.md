@@ -12,7 +12,6 @@
 
 ```bash
 $ npm install
-$ npx prisma migrate dev
 ```
 
 ## Running the app
